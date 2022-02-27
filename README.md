@@ -1,8 +1,8 @@
-# Campaign Summary
+# Campaign Nexus
 
 You all joined the Antiquarian Commission a month ago, for your own reasons.
-A wizard teleported you out to Lake Town, an exciting new site in a region suspected to be filled with ancient Promean artifacts.
-The Commission's goal in the region is to find the legendary Last Promean Sword, a powerful symbol of the legacy of the Promeans as liberators, as conquerors, as leaders, and in the end, as despots.
+You were teleported to Oak Meadows, a small town in a region suspected to be filled with ancient Promean artifacts.
+The Commission's goal in the region is to find the legendary **Last Promean Sword**, a powerful symbol of the legacy of the Promeans as liberators, as conquerors, as leaders, and in the end, as despots.
 
 ## The Antiquarian Commission
 
