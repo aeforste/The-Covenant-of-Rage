@@ -40,28 +40,28 @@ The Antiquarian Commission's mission is to find and catalog items of historical 
     <th>Role</th>
 </tr>
 <tr>
-    <td>Ulrich Haverman</td>
-    <td>Adventurer (Captain)</td>
-</tr>
-<tr>
-    <td>Eilinoda Copperfern </td>
+    <td>Eilinoda Copperfern (Chelzea)</td>
     <td>Magical Resources</td>
 </tr>
 <tr>
-    <td>[Tyler's Character] </td>
+    <td>Dorian Dawnbringer (Tyler) </td>
     <td>Administration</td>
 </tr>
 <tr>
-    <td>[Brandon's Character]</td>
+    <td>Greila Rhasst (Brandon) </td>
     <td>Researcher</td>
 </tr>
 <tr>
-    <td>Bran Leafsteam</td>
+    <td>Bran Leafsteam (David) </td>
     <td>Adventurer</td>
 </tr>
 <tr>
-    <td>[Anlang's Character]</td>
+    <td>Anton Sognare (Anlang)</td>
     <td>Adventurer</td>
+</tr>
+<tr>
+    <td>Ulrich Haverman</td>
+    <td>Adventurer (Captain)</td>
 </tr>
 </table>
 
