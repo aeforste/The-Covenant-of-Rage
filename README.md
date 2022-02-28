@@ -56,8 +56,8 @@ The Antiquarian Commission's mission is to find and catalog items of historical 
     <td>Researcher</td>
 </tr>
 <tr>
-    <td>[David's Character]</td>
-    <td>Researcher</td>
+    <td>Bran Leafsteam</td>
+    <td>Adventurer</td>
 </tr>
 <tr>
     <td>[Anlang's Character]</td>

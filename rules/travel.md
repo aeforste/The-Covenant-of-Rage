@@ -24,3 +24,7 @@ When you undergo a long journey (2 or more nights), this is the procedure I will
 10. Log progress (0 if LOST).
 11. Play out nighttime encounters.
 12. Go to step 2.
+
+## Resources
+
+Rations are a crucial resource. 1 day's rations costs 5sp (0.5gp), and you can only hold 3 days of food in your pack. 
