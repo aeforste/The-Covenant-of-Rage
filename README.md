@@ -44,8 +44,8 @@ The Antiquarian Commission's mission is to find and catalog items of historical 
     <td>Adventurer (Captain)</td>
 </tr>
 <tr>
-    <td>[Chelzea's Character] </td>
-    <td>Role</td>
+    <td>Eilinoda Copperfern </td>
+    <td>Magical Resources</td>
 </tr>
 <tr>
     <td>[Tyler's Character] </td>
