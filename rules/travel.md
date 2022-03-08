@@ -13,7 +13,7 @@ When you undergo a long journey (2 or more nights), this is the procedure I will
     |---|---|---|---|---|---|
     |slow|2/3|0|+4|+4|-4|
     |medium|1|-4|0|0|0|
-    |slow|1 1/3|no|-4|-4|+4|
+    |fast|1 1/3|no|-4|-4|+4|
     
 6. Roll 6d6 for each phase of the day: morning, afternoon, evening, dusk, midnight, pre-dawn. If the dice reads the Danger Level or less, roll for an encounter.
 7. Play out daytime encounters.
@@ -27,4 +27,6 @@ When you undergo a long journey (2 or more nights), this is the procedure I will
 
 ## Resources
 
-Rations are a crucial resource. 1 day's rations costs 5sp (0.5gp), and you can only hold 3 days of food in your pack. 
+Rations are a crucial resource. 1 day's rations costs 5sp (0.5gp), and you can only hold 3 days of food in your pack.
+
+To transport more rations or any significant volume of treasure, [mounts and vehicles](https://www.5esrd.com/equipment/mounts-and-vehicles/) are required.
